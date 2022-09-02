@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #000000;
+  font-family: Vilane Thin;
+}
+@font-face {
+  font-family: "Vilane Bold";
+  src: local("Vilane Bold"), url(../utils/Vilane-Font/Vilane Bold.ttf) format(
+    "opentype");
+}
+@font-face {
+  font-family: "Vilane Extra Light";
+  src: local("Vilane Extra Light"), url(../utils/Vilane-Font/Vilane Extra Light.ttf) format(
+    "opentype");
+}
+@font-face {
+  font-family: "Vilane Light";
+  src: local("Vilane Light"), url(../utils/Vilane-Font/Vilane Light.ttf) format(
+    "opentype");
+}
+/* base font*/
+@font-face {
+  font-family: "Vilane Thin";
+  src: local("Vilane Thin"), url(../utils/Vilane-Font/Vilane Thin.ttf) format(
+    "opentype");
+}
